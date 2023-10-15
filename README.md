@@ -35,9 +35,8 @@
 
       $ cd TMOD
 
-      $ bash TMOD.sh ```bash
-      
-      
+      $ bash TMOD.sh 
+```          
 
     <h2 align="center"> SUPPORT UDMODZ 😘😘😘 </h2> <br>
 
