@@ -35,7 +35,7 @@
 
       $ cd TMOD
 
-      $ bash TMOD.sh bash```
+      $ bash TMOD.sh ```bash
       
       
 
