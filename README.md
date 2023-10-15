@@ -3,10 +3,10 @@
 <p align="center">
 <img src="https://i.ibb.co/ZX737kS/UD-BOT.png" width="300" height="300"/>
 </p>
-<h2 align="center"> TERMUX RENAMER </h2> <br>
+<h2 align="center"> TERMUX RENAMER </h2>
 <p align="center"><i>
  BY UDMODZ
- </i></p> <br>
+ </i></p>
 
 <h2 align="center">   මේ command එකින් එක run කරපං 😎</h2>
 
@@ -39,17 +39,17 @@
 ```          
 <h2 align="center">SUPPORT UDMODZ 😘😘😘</h2>
 
-<p align="center"><i>1.[`SUBSCRIBE 🥺`](https://www.youtube.com/@UDMODZ/) </i></p> <br>
-<p align="center"><i>2.[`FOLLOW ON TIKTOK 🥺`](https://www.tiktok.com/@udmodz/) </i></p> <br>
- <p align="center"><i>3.[`FOLLOW ON WHATSAPP 🥺`](https://whatsapp.com/channel/0029Va5e01M3LdQdtjYJjc3K/) </i></p> <br>
-<p align="center"><i>4.[`JOIN WITH US FOR LEARN HACKING 😎`](https://t.me/UDMODZ3/) </i></p> <br>
+1.[`SUBSCRIBE 🥺`](https://www.youtube.com/@UDMODZ/) 
+2.[`FOLLOW ON TIKTOK 🥺`](https://www.tiktok.com/@udmodz)
+3.[`FOLLOW ON WHATSAPP 🥺`](https://whatsapp.com/channel/0029Va5e01M3LdQdtjYJjc3K/) 
+4.[`JOIN WITH US FOR LEARN HACKING 😎`](https://t.me/UDMODZ3/) 
 
 
 
 
           Dont forget to leave a 🌟 star
 
-<h2 align="center" color="red"> POWERED BY  </h2> <br>
+<h2 align="center" color="red"> POWERED BY  </h2>
 
 ┏┓─┏┓┏━━━┓┏━┓┏━┓┏━━━┓┏━━━┓┏━━━━┓ 
 ┃┃─┃┃┗┓┏┓┃┃┃┗┛┃┃┃┏━┓┃┗┓┏┓┃┗━━┓━┃ 
