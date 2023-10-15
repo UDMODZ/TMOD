@@ -37,9 +37,9 @@
 
       $ bash TMOD.sh 
 ```          
-    <h2 align="center"> SUPPORT UDMODZ 😘😘😘 </h2> <br>
+<h2 align="center">SUPPORT UDMODZ 😘😘😘</h2>
 
-1.[`UBSCRIBE 🥺`](https://www.youtube.com/@UDMODZ/)
+1.[`SUBSCRIBE 🥺`](https://www.youtube.com/@UDMODZ/)
 2.[`FOLLOW ON TIKTOK 🥺`](https://www.tiktok.com/@udmodz/)
 3.[`FOLLOW ON WHATSAPP 🥺`](https://whatsapp.com/channel/0029Va5e01M3LdQdtjYJjc3K/)
 4.[`JOIN WITH US FOR LEARN HACKING 😎`](https://t.me/UDMODZ3/)
