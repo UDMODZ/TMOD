@@ -39,10 +39,10 @@
 ```          
 <h2 align="center">SUPPORT UDMODZ 😘😘😘</h2>
 
-1.[`SUBSCRIBE 🥺`](https://www.youtube.com/@UDMODZ/)
-2.[`FOLLOW ON TIKTOK 🥺`](https://www.tiktok.com/@udmodz/)
-3.[`FOLLOW ON WHATSAPP 🥺`](https://whatsapp.com/channel/0029Va5e01M3LdQdtjYJjc3K/)
-4.[`JOIN WITH US FOR LEARN HACKING 😎`](https://t.me/UDMODZ3/)
+<p align="center"><i>1.[`SUBSCRIBE 🥺`](https://www.youtube.com/@UDMODZ/) </i></p> <br>
+<p align="center"><i>2.[`FOLLOW ON TIKTOK 🥺`](https://www.tiktok.com/@udmodz/) </i></p> <br>
+ <p align="center"><i>3.[`FOLLOW ON WHATSAPP 🥺`](https://whatsapp.com/channel/0029Va5e01M3LdQdtjYJjc3K/) </i></p> <br>
+<p align="center"><i>4.[`JOIN WITH US FOR LEARN HACKING 😎`](https://t.me/UDMODZ3/) </i></p> <br>
 
 
 
