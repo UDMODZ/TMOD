@@ -3,10 +3,10 @@
 <p align="center">
 <img src="https://i.ibb.co/ZX737kS/UD-BOT.png" width="300" height="300"/>
 </p>
-<h2 align="center"> TERMUX RENAMER </h2>
-<p align="center"><i>
- BY UDMODZ
- </i></p>
+
+<p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=TERMUX+BANNER+CHANGER+BY+UDMODZ" alt="">
+</p>
 
 <h2 align="center">   මේ command එකින් එක run කරපං 😎</h2>
 
