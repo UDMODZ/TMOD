@@ -14,13 +14,15 @@
       
       $ pkg update && upgrade
 
-      $ pip install -r requirements.txt
-
-      $ gem install lolcat
+      $ pkg install git
 
       $ git clone https://github.com/UDMODZ/TMOD
 
       $ cd TMOD
+
+      $ pip install -r requirements.txt
+
+      $ gem install lolcat
 
       $ bash TMOD.sh 
 ```          
