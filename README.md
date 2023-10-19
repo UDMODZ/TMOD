@@ -8,7 +8,7 @@
   <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=blue&center=true&vCenter=true&multiline=false&lines=TERMUX+BANNER+CHANGER+BY+UDMODZ" alt="">
 </p>
 
-<h2 align="center">   මේ command එකින් එක run කරපං 😎</h2>
+<h2 align="center">   𝗥𝗨𝗡 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗭 𝗢𝗡𝗘 𝗕𝗬 𝗢𝗡𝗘 😎</h2>
 
 ```bash
       
@@ -20,8 +20,18 @@
 
       $ cd TMOD
 
-      $ pip install -r requirements.txt
+      $ pkg install openssl
 
+      $ pkg install wget
+
+      $ pkg install figlet
+
+      $ pkg install cowsay
+      
+      $ pkg install ruby
+      
+      $ pkg install neofetch
+      
       $ gem install lolcat
 
       $ bash TMOD.sh 
