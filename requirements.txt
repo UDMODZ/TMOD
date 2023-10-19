@@ -1,0 +1,7 @@
+ruby
+neofetch
+cowsay
+figlet
+wget
+openssl
+git
