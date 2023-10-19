@@ -11,25 +11,12 @@
 <h2 align="center">   මේ command එකින් එක run කරපං 😎</h2>
 
 ```bash
-      $ pkg update
+      
+      $ pkg update && upgrade
 
-      $ pkg upgrade
-
-      $ pkg install ruby
-
-      $ pkg install neofetch
-
-      $ pkg install cowsay
-
-      $ pkg install figlet
-
-      $ pkg install wget
-
-      $ pkg install openssl
+      $ pip install -r requirements.txt
 
       $ gem install lolcat
-
-      $ pkg install git
 
       $ git clone https://github.com/UDMODZ/TMOD
 
